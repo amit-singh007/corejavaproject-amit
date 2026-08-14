@@ -1,9 +1,1 @@
-2026-08-09 08:47:18,627 INFO c.c.testbasic [main] First Test Program
-2026-08-09 08:50:06,153 INFO c.c.testbasic [main] First Test Program
-2026-08-09 08:52:01,192 INFO c.c.t.testbasic [main] First Test Program
-2026-08-09 08:52:30,773 INFO c.c.b.HelloWorld [main] hello world
-2026-08-09 08:52:47,337 INFO c.c.t.testbasic [main] First Test Program
-2026-08-09 09:30:41,464 INFO c.c.t.testbasic [main] First Test Program
-2026-08-09 09:31:00,957 INFO c.c.t.testbasic [main] First Test Program display
-2026-08-09 09:31:25,157 INFO c.c.t.testbasic [main] First - Test Program display Here
-2026-08-09 09:31:37,034 INFO c.c.t.testbasic [main] First : Test Program display Here
+2026-08-14 20:55:22,389 INFO s.testsecond [main] Second program - Practice World
